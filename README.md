@@ -230,7 +230,3 @@ pytest tests/test_agent.py -v
 - CI/CD integration with GitHub Actions and Jenkins plugins.
 - Historical trend analysis and flakiness detection.
 - Support for authenticated flows with cookie/token injection.
-
-## Resume Bullet
-
-> Engineered an AI-powered autonomous QA agent in Python that leverages Claude AI to analyze web applications, generate risk-prioritized test suites, execute browser tests via Selenium with self-healing selectors, and produce structured QA reports — reducing manual test creation effort by an estimated 80%.
